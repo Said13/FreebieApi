@@ -1,0 +1,13 @@
+2017-10-24 09:52:16.194 EEST [84028] LOG:  listening on IPv6 address "::1", port 5432
+2017-10-24 09:52:16.195 EEST [84028] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2017-10-24 09:52:16.197 EEST [84028] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2017-10-24 09:52:16.210 EEST [84029] LOG:  database system was shut down at 2017-10-24 09:52:03 EEST
+2017-10-24 09:52:16.216 EEST [84028] LOG:  database system is ready to accept connections
+2017-10-24 09:52:18.504 EEST [84039] FATAL:  database "abdullahatkaev" does not exist
+2017-10-24 09:52:52.024 EEST [84444] FATAL:  database "abdullahatkaev" does not exist
+2017-10-24 09:53:30.053 EEST [84855] FATAL:  database "abdullahatkaev" does not exist
+2017-10-24 11:40:07.751 EEST [3329] FATAL:  database "abdullahatkaev" does not exist
+2017-10-24 18:06:27.117 EEST [84028] LOG:  received smart shutdown request
+2017-10-24 18:06:27.118 EEST [84028] LOG:  worker process: logical replication launcher (PID 84035) exited with exit code 1
+2017-10-24 18:06:27.119 EEST [84030] LOG:  shutting down
+2017-10-24 18:06:27.128 EEST [84028] LOG:  database system is shut down
